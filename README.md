@@ -25,8 +25,6 @@ Note: No external library packages needed to be installed.
 2. Extract all files in .zip. 
 3. Double click on coco_viewer.exe application. Application should being launching.
 
-# Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
 # Support
 Please report an issue if you encounter any.
